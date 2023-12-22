@@ -25,3 +25,6 @@ App Brainstorming:
 
 My personal app:
   For my app, I would like to build a gym progress   tracker that can log workouts and weights lifted to track progress. This app would also show you your progress in a graph view for easier viewing. I would like this app to track caloric intake as well and store them in a nice UI. This gym tracker would also allow you to view your friend's progress if they would want it public.
+
+Gif:
+![](https://imgur.com/a/MFbQyGS.gif)
